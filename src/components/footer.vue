@@ -19,9 +19,7 @@
                                     <i class="fas fa-gem me-3 link-secondary"></i>Company name
                                 </h6>
                                 <p>
-                                    Here you can use rows and columns to organize your footer
-                                    content. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit.
+                                    "YASRIB PRO" limited liability company has been engaged in exporting agricultural products of Uzbekistan abroad for many years. Our company has sufficient experience and potential in this field
                                 </p>
                             </MDBCol>
                             <!-- Grid column -->
