@@ -10,3 +10,5 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 
 Web link
 https://yasribpro-uz.netlify.app/
+
+https://websayt-m7.netlify.app
